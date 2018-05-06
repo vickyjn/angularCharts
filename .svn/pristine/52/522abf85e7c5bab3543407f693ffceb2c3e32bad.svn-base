@@ -1,0 +1,7 @@
+<chart-pie *ngIf="(pieData && pieData.length)" height="500" width="auto" [data]="pieData"></chart-pie>
+<chart-trend *ngIf="(trendData && trendData.length)" height="500" width="auto" x="" y="" Legend="" Label="" colors=[red,green] markers="" background="" drilldown="" allowMaximize="" [data]="trendData"></chart-trend>
+<chart-bar height="500" width="auto" x="home" y="home_prob" sid="sidBar1" [data]="serviceData"></chart-bar>
+<chart-donut *ngIf="(donutData && donutData.length)" height="500" width="auto" [data]="donutData"></chart-donut>
+<chart-line *ngIf="(lineData && lineData.length)" height="500" width="auto" [data]="lineData"></chart-line>
+<chart-scatterplot *ngIf="(plotData && plotData.length)" height="500" width="auto" [data]="plotData"></chart-scatterplot>
+<section-table height="" width="auto" [colDefs]="customHeaders" responsive="false" [data]="serviceData"></section-table>

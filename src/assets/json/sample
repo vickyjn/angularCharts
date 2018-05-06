@@ -1,0 +1,1794 @@
+[
+  {
+    "week": 0,
+    "away": "PIT",
+    "away_prob": 0.28,
+    "home_prob": 0.72,
+    "home": "NE"
+  },
+  {
+    "week": 0,
+    "away": "CAR",
+    "away_prob": 0.66,
+    "home_prob": 0.34,
+    "home": "JAX"
+  },
+  {
+    "week": 0,
+    "away": "CLE",
+    "away_prob": 0.38,
+    "home_prob": 0.62,
+    "home": "NYJ"
+  },
+  {
+    "week": 0,
+    "away": "GB",
+    "away_prob": 0.66,
+    "home_prob": 0.34,
+    "home": "CHI"
+  },
+  {
+    "week": 0,
+    "away": "IND",
+    "away_prob": 0.47,
+    "home_prob": 0.52,
+    "home": "BUF"
+  },
+  {
+    "week": 0,
+    "away": "KC",
+    "away_prob": 0.46,
+    "home_prob": 0.54,
+    "home": "HOU"
+  },
+  {
+    "week": 0,
+    "away": "MIA",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "WSH"
+  },
+  {
+    "week": 0,
+    "away": "SEA",
+    "away_prob": 0.69,
+    "home_prob": 0.31,
+    "home": "STL"
+  },
+  {
+    "week": 0,
+    "away": "DET",
+    "away_prob": 0.43,
+    "home_prob": 0.57,
+    "home": "SD"
+  },
+  {
+    "week": 0,
+    "away": "NO",
+    "away_prob": 0.33,
+    "home_prob": 0.66,
+    "home": "ARI"
+  },
+  {
+    "week": 0,
+    "away": "BAL",
+    "away_prob": 0.38,
+    "home_prob": 0.62,
+    "home": "DEN"
+  },
+  {
+    "week": 0,
+    "away": "CIN",
+    "away_prob": 0.62,
+    "home_prob": 0.38,
+    "home": "OAK"
+  },
+  {
+    "week": 0,
+    "away": "TEN",
+    "away_prob": 0.36,
+    "home_prob": 0.64,
+    "home": "TB"
+  },
+  {
+    "week": 0,
+    "away": "NYG",
+    "away_prob": 0.27,
+    "home_prob": 0.73,
+    "home": "DAL"
+  },
+  {
+    "week": 0,
+    "away": "PHI",
+    "away_prob": 0.52,
+    "home_prob": 0.47,
+    "home": "ATL"
+  },
+  {
+    "week": 0,
+    "away": "MIN",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "SF"
+  },
+  {
+    "week": 1,
+    "away": "DEN",
+    "away_prob": 0.47,
+    "home_prob": 0.52,
+    "home": "KC"
+  },
+  {
+    "week": 1,
+    "away": "ARI",
+    "away_prob": 0.62,
+    "home_prob": 0.38,
+    "home": "CHI"
+  },
+  {
+    "week": 1,
+    "away": "ATL",
+    "away_prob": 0.4,
+    "home_prob": 0.6,
+    "home": "NYG"
+  },
+  {
+    "week": 1,
+    "away": "DET",
+    "away_prob": 0.49999,
+    "home_prob": 0.5,
+    "home": "MIN"
+  },
+  {
+    "week": 1,
+    "away": "HOU",
+    "away_prob": 0.31,
+    "home_prob": 0.68,
+    "home": "CAR"
+  },
+  {
+    "week": 1,
+    "away": "NE",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "BUF"
+  },
+  {
+    "week": 1,
+    "away": "SD",
+    "away_prob": 0.37,
+    "home_prob": 0.63,
+    "home": "CIN"
+  },
+  {
+    "week": 1,
+    "away": "SF",
+    "away_prob": 0.4,
+    "home_prob": 0.6,
+    "home": "PIT"
+  },
+  {
+    "week": 1,
+    "away": "STL",
+    "away_prob": 0.61,
+    "home_prob": 0.39,
+    "home": "WSH"
+  },
+  {
+    "week": 1,
+    "away": "TB",
+    "away_prob": 0.24,
+    "home_prob": 0.76,
+    "home": "NO"
+  },
+  {
+    "week": 1,
+    "away": "TEN",
+    "away_prob": 0.39,
+    "home_prob": 0.61,
+    "home": "CLE"
+  },
+  {
+    "week": 1,
+    "away": "BAL",
+    "away_prob": 0.68,
+    "home_prob": 0.32,
+    "home": "OAK"
+  },
+  {
+    "week": 1,
+    "away": "MIA",
+    "away_prob": 0.63,
+    "home_prob": 0.36,
+    "home": "JAX"
+  },
+  {
+    "week": 1,
+    "away": "DAL",
+    "away_prob": 0.49,
+    "home_prob": 0.51,
+    "home": "PHI"
+  },
+  {
+    "week": 1,
+    "away": "SEA",
+    "away_prob": 0.47,
+    "home_prob": 0.53,
+    "home": "GB"
+  },
+  {
+    "week": 1,
+    "away": "NYJ",
+    "away_prob": 0.29,
+    "home_prob": 0.71,
+    "home": "IND"
+  },
+  {
+    "week": 2,
+    "away": "WSH",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "NYG"
+  },
+  {
+    "week": 2,
+    "away": "ATL",
+    "away_prob": 0.25,
+    "home_prob": 0.75,
+    "home": "DAL"
+  },
+  {
+    "week": 2,
+    "away": "CIN",
+    "away_prob": 0.46,
+    "home_prob": 0.54,
+    "home": "BAL"
+  },
+  {
+    "week": 2,
+    "away": "IND",
+    "away_prob": 0.62,
+    "home_prob": 0.38,
+    "home": "TEN"
+  },
+  {
+    "week": 2,
+    "away": "JAX",
+    "away_prob": 0.09,
+    "home_prob": 0.91,
+    "home": "NE"
+  },
+  {
+    "week": 2,
+    "away": "NO",
+    "away_prob": 0.25,
+    "home_prob": 0.75,
+    "home": "CAR"
+  },
+  {
+    "week": 2,
+    "away": "OAK",
+    "away_prob": 0.37,
+    "home_prob": 0.63,
+    "home": "CLE"
+  },
+  {
+    "week": 2,
+    "away": "PHI",
+    "away_prob": 0.41,
+    "home_prob": 0.58,
+    "home": "NYJ"
+  },
+  {
+    "week": 2,
+    "away": "PIT",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "STL"
+  },
+  {
+    "week": 2,
+    "away": "SD",
+    "away_prob": 0.46,
+    "home_prob": 0.53,
+    "home": "MIN"
+  },
+  {
+    "week": 2,
+    "away": "TB",
+    "away_prob": 0.27,
+    "home_prob": 0.72,
+    "home": "HOU"
+  },
+  {
+    "week": 2,
+    "away": "SF",
+    "away_prob": 0.33,
+    "home_prob": 0.67,
+    "home": "ARI"
+  },
+  {
+    "week": 2,
+    "away": "BUF",
+    "away_prob": 0.49,
+    "home_prob": 0.51,
+    "home": "MIA"
+  },
+  {
+    "week": 2,
+    "away": "CHI",
+    "away_prob": 0.14,
+    "home_prob": 0.86,
+    "home": "SEA"
+  },
+  {
+    "week": 2,
+    "away": "DEN",
+    "away_prob": 0.59,
+    "home_prob": 0.4,
+    "home": "DET"
+  },
+  {
+    "week": 2,
+    "away": "KC",
+    "away_prob": 0.28,
+    "home_prob": 0.72,
+    "home": "GB"
+  },
+  {
+    "week": 3,
+    "away": "BAL",
+    "away_prob": 0.31,
+    "home_prob": 0.69,
+    "home": "PIT"
+  },
+  {
+    "week": 3,
+    "away": "NYJ",
+    "away_prob": 0.54,
+    "home_prob": 0.46,
+    "home": "MIA"
+  },
+  {
+    "week": 3,
+    "away": "CAR",
+    "away_prob": 0.71,
+    "home_prob": 0.29,
+    "home": "TB"
+  },
+  {
+    "week": 3,
+    "away": "HOU",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "ATL"
+  },
+  {
+    "week": 3,
+    "away": "JAX",
+    "away_prob": 0.2,
+    "home_prob": 0.79,
+    "home": "IND"
+  },
+  {
+    "week": 3,
+    "away": "KC",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "CIN"
+  },
+  {
+    "week": 3,
+    "away": "NYG",
+    "away_prob": 0.27,
+    "home_prob": 0.72,
+    "home": "BUF"
+  },
+  {
+    "week": 3,
+    "away": "OAK",
+    "away_prob": 0.47,
+    "home_prob": 0.53,
+    "home": "CHI"
+  },
+  {
+    "week": 3,
+    "away": "PHI",
+    "away_prob": 0.63,
+    "home_prob": 0.37,
+    "home": "WSH"
+  },
+  {
+    "week": 3,
+    "away": "CLE",
+    "away_prob": 0.27,
+    "home_prob": 0.73,
+    "home": "SD"
+  },
+  {
+    "week": 3,
+    "away": "GB",
+    "away_prob": 0.62,
+    "home_prob": 0.38,
+    "home": "SF"
+  },
+  {
+    "week": 3,
+    "away": "MIN",
+    "away_prob": 0.23,
+    "home_prob": 0.77,
+    "home": "DEN"
+  },
+  {
+    "week": 3,
+    "away": "STL",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "ARI"
+  },
+  {
+    "week": 3,
+    "away": "DAL",
+    "away_prob": 0.62,
+    "home_prob": 0.38,
+    "home": "NO"
+  },
+  {
+    "week": 3,
+    "away": "DET",
+    "away_prob": 0.21,
+    "home_prob": 0.79,
+    "home": "SEA"
+  },
+  {
+    "week": 4,
+    "away": "IND",
+    "away_prob": 0.5,
+    "home_prob": 0.49,
+    "home": "HOU"
+  },
+  {
+    "week": 4,
+    "away": "BUF",
+    "away_prob": 0.65,
+    "home_prob": 0.35,
+    "home": "TEN"
+  },
+  {
+    "week": 4,
+    "away": "CHI",
+    "away_prob": 0.25,
+    "home_prob": 0.75,
+    "home": "KC"
+  },
+  {
+    "week": 4,
+    "away": "CLE",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "BAL"
+  },
+  {
+    "week": 4,
+    "away": "JAX",
+    "away_prob": 0.42,
+    "home_prob": 0.58,
+    "home": "TB"
+  },
+  {
+    "week": 4,
+    "away": "NO",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "PHI"
+  },
+  {
+    "week": 4,
+    "away": "SEA",
+    "away_prob": 0.46,
+    "home_prob": 0.54,
+    "home": "CIN"
+  },
+  {
+    "week": 4,
+    "away": "STL",
+    "away_prob": 0.17,
+    "home_prob": 0.82,
+    "home": "GB"
+  },
+  {
+    "week": 4,
+    "away": "WSH",
+    "away_prob": 0.21,
+    "home_prob": 0.79,
+    "home": "ATL"
+  },
+  {
+    "week": 4,
+    "away": "ARI",
+    "away_prob": 0.56,
+    "home_prob": 0.43,
+    "home": "DET"
+  },
+  {
+    "week": 4,
+    "away": "DEN",
+    "away_prob": 0.74,
+    "home_prob": 0.25,
+    "home": "OAK"
+  },
+  {
+    "week": 4,
+    "away": "NE",
+    "away_prob": 0.61,
+    "home_prob": 0.38,
+    "home": "DAL"
+  },
+  {
+    "week": 4,
+    "away": "SF",
+    "away_prob": 0.36,
+    "home_prob": 0.64,
+    "home": "NYG"
+  },
+  {
+    "week": 4,
+    "away": "PIT",
+    "away_prob": 0.5,
+    "home_prob": 0.49,
+    "home": "SD"
+  },
+  {
+    "week": 5,
+    "away": "ATL",
+    "away_prob": 0.59,
+    "home_prob": 0.41,
+    "home": "NO"
+  },
+  {
+    "week": 5,
+    "away": "ARI",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "PIT"
+  },
+  {
+    "week": 5,
+    "away": "CHI",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "DET"
+  },
+  {
+    "week": 5,
+    "away": "CIN",
+    "away_prob": 0.53,
+    "home_prob": 0.47,
+    "home": "BUF"
+  },
+  {
+    "week": 5,
+    "away": "DEN",
+    "away_prob": 0.75,
+    "home_prob": 0.25,
+    "home": "CLE"
+  },
+  {
+    "week": 5,
+    "away": "HOU",
+    "away_prob": 0.56,
+    "home_prob": 0.44,
+    "home": "JAX"
+  },
+  {
+    "week": 5,
+    "away": "KC",
+    "away_prob": 0.4,
+    "home_prob": 0.6,
+    "home": "MIN"
+  },
+  {
+    "week": 5,
+    "away": "MIA",
+    "away_prob": 0.51,
+    "home_prob": 0.49,
+    "home": "TEN"
+  },
+  {
+    "week": 5,
+    "away": "WSH",
+    "away_prob": 0.26,
+    "home_prob": 0.74,
+    "home": "NYJ"
+  },
+  {
+    "week": 5,
+    "away": "CAR",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "SEA"
+  },
+  {
+    "week": 5,
+    "away": "BAL",
+    "away_prob": 0.48,
+    "home_prob": 0.52,
+    "home": "SF"
+  },
+  {
+    "week": 5,
+    "away": "SD",
+    "away_prob": 0.19,
+    "home_prob": 0.81,
+    "home": "GB"
+  },
+  {
+    "week": 5,
+    "away": "NE",
+    "away_prob": 0.65,
+    "home_prob": 0.35,
+    "home": "IND"
+  },
+  {
+    "week": 5,
+    "away": "NYG",
+    "away_prob": 0.39,
+    "home_prob": 0.61,
+    "home": "PHI"
+  },
+  {
+    "week": 6,
+    "away": "SEA",
+    "away_prob": 0.59,
+    "home_prob": 0.41,
+    "home": "SF"
+  },
+  {
+    "week": 6,
+    "away": "BUF",
+    "away_prob": 0.76,
+    "home_prob": 0.24,
+    "home": "JAX"
+  },
+  {
+    "week": 6,
+    "away": "ATL",
+    "away_prob": 0.7,
+    "home_prob": 0.3,
+    "home": "TEN"
+  },
+  {
+    "week": 6,
+    "away": "CLE",
+    "away_prob": 0.33,
+    "home_prob": 0.66,
+    "home": "STL"
+  },
+  {
+    "week": 6,
+    "away": "HOU",
+    "away_prob": 0.41,
+    "home_prob": 0.59,
+    "home": "MIA"
+  },
+  {
+    "week": 6,
+    "away": "MIN",
+    "away_prob": 0.5,
+    "home_prob": 0.49,
+    "home": "DET"
+  },
+  {
+    "week": 6,
+    "away": "NO",
+    "away_prob": 0.31,
+    "home_prob": 0.69,
+    "home": "IND"
+  },
+  {
+    "week": 6,
+    "away": "NYJ",
+    "away_prob": 0.16,
+    "home_prob": 0.84,
+    "home": "NE"
+  },
+  {
+    "week": 6,
+    "away": "PIT",
+    "away_prob": 0.59,
+    "home_prob": 0.41,
+    "home": "KC"
+  },
+  {
+    "week": 6,
+    "away": "TB",
+    "away_prob": 0.39,
+    "home_prob": 0.61,
+    "home": "WSH"
+  },
+  {
+    "week": 6,
+    "away": "OAK",
+    "away_prob": 0.3,
+    "home_prob": 0.7,
+    "home": "SD"
+  },
+  {
+    "week": 6,
+    "away": "DAL",
+    "away_prob": 0.45,
+    "home_prob": 0.55,
+    "home": "NYG"
+  },
+  {
+    "week": 6,
+    "away": "PHI",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "CAR"
+  },
+  {
+    "week": 6,
+    "away": "BAL",
+    "away_prob": 0.29,
+    "home_prob": 0.71,
+    "home": "ARI"
+  },
+  {
+    "week": 7,
+    "away": "MIA",
+    "away_prob": 0.13,
+    "home_prob": 0.87,
+    "home": "NE"
+  },
+  {
+    "week": 7,
+    "away": "DET",
+    "away_prob": 0.38,
+    "home_prob": 0.61,
+    "home": "KC"
+  },
+  {
+    "week": 7,
+    "away": "ARI",
+    "away_prob": 0.71,
+    "home_prob": 0.29,
+    "home": "CLE"
+  },
+  {
+    "week": 7,
+    "away": "CIN",
+    "away_prob": 0.5,
+    "home_prob": 0.49,
+    "home": "PIT"
+  },
+  {
+    "week": 7,
+    "away": "MIN",
+    "away_prob": 0.63,
+    "home_prob": 0.37,
+    "home": "CHI"
+  },
+  {
+    "week": 7,
+    "away": "NYG",
+    "away_prob": 0.45,
+    "home_prob": 0.55,
+    "home": "NO"
+  },
+  {
+    "week": 7,
+    "away": "SD",
+    "away_prob": 0.35,
+    "home_prob": 0.65,
+    "home": "BAL"
+  },
+  {
+    "week": 7,
+    "away": "SF",
+    "away_prob": 0.39,
+    "home_prob": 0.61,
+    "home": "STL"
+  },
+  {
+    "week": 7,
+    "away": "TB",
+    "away_prob": 0.19,
+    "home_prob": 0.81,
+    "home": "ATL"
+  },
+  {
+    "week": 7,
+    "away": "TEN",
+    "away_prob": 0.25,
+    "home_prob": 0.75,
+    "home": "HOU"
+  },
+  {
+    "week": 7,
+    "away": "NYJ",
+    "away_prob": 0.52,
+    "home_prob": 0.48,
+    "home": "OAK"
+  },
+  {
+    "week": 7,
+    "away": "SEA",
+    "away_prob": 0.59,
+    "home_prob": 0.41,
+    "home": "DAL"
+  },
+  {
+    "week": 7,
+    "away": "GB",
+    "away_prob": 0.42,
+    "home_prob": 0.58,
+    "home": "DEN"
+  },
+  {
+    "week": 7,
+    "away": "IND",
+    "away_prob": 0.26,
+    "home_prob": 0.74,
+    "home": "CAR"
+  },
+  {
+    "week": 8,
+    "away": "CLE",
+    "away_prob": 0.13,
+    "home_prob": 0.87,
+    "home": "CIN"
+  },
+  {
+    "week": 8,
+    "away": "GB",
+    "away_prob": 0.49,
+    "home_prob": 0.51,
+    "home": "CAR"
+  },
+  {
+    "week": 8,
+    "away": "JAX",
+    "away_prob": 0.2,
+    "home_prob": 0.8,
+    "home": "NYJ"
+  },
+  {
+    "week": 8,
+    "away": "MIA",
+    "away_prob": 0.4,
+    "home_prob": 0.6,
+    "home": "BUF"
+  },
+  {
+    "week": 8,
+    "away": "OAK",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "PIT"
+  },
+  {
+    "week": 8,
+    "away": "STL",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "MIN"
+  },
+  {
+    "week": 8,
+    "away": "TEN",
+    "away_prob": 0.2,
+    "home_prob": 0.8,
+    "home": "NO"
+  },
+  {
+    "week": 8,
+    "away": "WSH",
+    "away_prob": 0.08,
+    "home_prob": 0.92,
+    "home": "NE"
+  },
+  {
+    "week": 8,
+    "away": "ATL",
+    "away_prob": 0.52,
+    "home_prob": 0.48,
+    "home": "SF"
+  },
+  {
+    "week": 8,
+    "away": "NYG",
+    "away_prob": 0.64,
+    "home_prob": 0.36,
+    "home": "TB"
+  },
+  {
+    "week": 8,
+    "away": "DEN",
+    "away_prob": 0.64,
+    "home_prob": 0.36,
+    "home": "IND"
+  },
+  {
+    "week": 8,
+    "away": "PHI",
+    "away_prob": 0.45,
+    "home_prob": 0.55,
+    "home": "DAL"
+  },
+  {
+    "week": 8,
+    "away": "CHI",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "SD"
+  },
+  {
+    "week": 9,
+    "away": "BUF",
+    "away_prob": 0.38,
+    "home_prob": 0.62,
+    "home": "NYJ"
+  },
+  {
+    "week": 9,
+    "away": "CAR",
+    "away_prob": 0.81,
+    "home_prob": 0.19,
+    "home": "TEN"
+  },
+  {
+    "week": 9,
+    "away": "CHI",
+    "away_prob": 0.29,
+    "home_prob": 0.71,
+    "home": "STL"
+  },
+  {
+    "week": 9,
+    "away": "CLE",
+    "away_prob": 0.18,
+    "home_prob": 0.82,
+    "home": "PIT"
+  },
+  {
+    "week": 9,
+    "away": "DAL",
+    "away_prob": 0.63,
+    "home_prob": 0.37,
+    "home": "TB"
+  },
+  {
+    "week": 9,
+    "away": "DET",
+    "away_prob": 0.14,
+    "home_prob": 0.86,
+    "home": "GB"
+  },
+  {
+    "week": 9,
+    "away": "JAX",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "BAL"
+  },
+  {
+    "week": 9,
+    "away": "MIA",
+    "away_prob": 0.33,
+    "home_prob": 0.67,
+    "home": "PHI"
+  },
+  {
+    "week": 9,
+    "away": "NO",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "WSH"
+  },
+  {
+    "week": 9,
+    "away": "MIN",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "OAK"
+  },
+  {
+    "week": 9,
+    "away": "KC",
+    "away_prob": 0.21,
+    "home_prob": 0.78,
+    "home": "DEN"
+  },
+  {
+    "week": 9,
+    "away": "NE",
+    "away_prob": 0.71,
+    "home_prob": 0.29,
+    "home": "NYG"
+  },
+  {
+    "week": 9,
+    "away": "ARI",
+    "away_prob": 0.36,
+    "home_prob": 0.64,
+    "home": "SEA"
+  },
+  {
+    "week": 9,
+    "away": "HOU",
+    "away_prob": 0.17,
+    "home_prob": 0.83,
+    "home": "CIN"
+  },
+  {
+    "week": 10,
+    "away": "TEN",
+    "away_prob": 0.38,
+    "home_prob": 0.62,
+    "home": "JAX"
+  },
+  {
+    "week": 10,
+    "away": "DAL",
+    "away_prob": 0.45,
+    "home_prob": 0.55,
+    "home": "MIA"
+  },
+  {
+    "week": 10,
+    "away": "DEN",
+    "away_prob": 0.78,
+    "home_prob": 0.22,
+    "home": "CHI"
+  },
+  {
+    "week": 10,
+    "away": "GB",
+    "away_prob": 0.61,
+    "home_prob": 0.39,
+    "home": "MIN"
+  },
+  {
+    "week": 10,
+    "away": "IND",
+    "away_prob": 0.36,
+    "home_prob": 0.64,
+    "home": "ATL"
+  },
+  {
+    "week": 10,
+    "away": "NYJ",
+    "away_prob": 0.51,
+    "home_prob": 0.49,
+    "home": "HOU"
+  },
+  {
+    "week": 10,
+    "away": "OAK",
+    "away_prob": 0.41,
+    "home_prob": 0.59,
+    "home": "DET"
+  },
+  {
+    "week": 10,
+    "away": "STL",
+    "away_prob": 0.39,
+    "home_prob": 0.61,
+    "home": "BAL"
+  },
+  {
+    "week": 10,
+    "away": "TB",
+    "away_prob": 0.19,
+    "home_prob": 0.81,
+    "home": "PHI"
+  },
+  {
+    "week": 10,
+    "away": "WSH",
+    "away_prob": 0.14,
+    "home_prob": 0.86,
+    "home": "CAR"
+  },
+  {
+    "week": 10,
+    "away": "CIN",
+    "away_prob": 0.47,
+    "home_prob": 0.53,
+    "home": "ARI"
+  },
+  {
+    "week": 10,
+    "away": "SF",
+    "away_prob": 0.2,
+    "home_prob": 0.8,
+    "home": "SEA"
+  },
+  {
+    "week": 10,
+    "away": "KC",
+    "away_prob": 0.5,
+    "home_prob": 0.49,
+    "home": "SD"
+  },
+  {
+    "week": 10,
+    "away": "BUF",
+    "away_prob": 0.14,
+    "home_prob": 0.86,
+    "home": "NE"
+  },
+  {
+    "week": 11,
+    "away": "PHI",
+    "away_prob": 0.56,
+    "home_prob": 0.44,
+    "home": "DET"
+  },
+  {
+    "week": 11,
+    "away": "CAR",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "DAL"
+  },
+  {
+    "week": 11,
+    "away": "CHI",
+    "away_prob": 0.11,
+    "home_prob": 0.89,
+    "home": "GB"
+  },
+  {
+    "week": 11,
+    "away": "BUF",
+    "away_prob": 0.37,
+    "home_prob": 0.63,
+    "home": "KC"
+  },
+  {
+    "week": 11,
+    "away": "MIA",
+    "away_prob": 0.37,
+    "home_prob": 0.63,
+    "home": "NYJ"
+  },
+  {
+    "week": 11,
+    "away": "MIN",
+    "away_prob": 0.41,
+    "home_prob": 0.59,
+    "home": "ATL"
+  },
+  {
+    "week": 11,
+    "away": "NO",
+    "away_prob": 0.48,
+    "home_prob": 0.52,
+    "home": "HOU"
+  },
+  {
+    "week": 11,
+    "away": "NYG",
+    "away_prob": 0.61,
+    "home_prob": 0.39,
+    "home": "WSH"
+  },
+  {
+    "week": 11,
+    "away": "OAK",
+    "away_prob": 0.58,
+    "home_prob": 0.42,
+    "home": "TEN"
+  },
+  {
+    "week": 11,
+    "away": "SD",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "JAX"
+  },
+  {
+    "week": 11,
+    "away": "STL",
+    "away_prob": 0.2,
+    "home_prob": 0.79,
+    "home": "CIN"
+  },
+  {
+    "week": 11,
+    "away": "TB",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "IND"
+  },
+  {
+    "week": 11,
+    "away": "ARI",
+    "away_prob": 0.6,
+    "home_prob": 0.39,
+    "home": "SF"
+  },
+  {
+    "week": 11,
+    "away": "PIT",
+    "away_prob": 0.33,
+    "home_prob": 0.66,
+    "home": "SEA"
+  },
+  {
+    "week": 11,
+    "away": "NE",
+    "away_prob": 0.5,
+    "home_prob": 0.49,
+    "home": "DEN"
+  },
+  {
+    "week": 11,
+    "away": "BAL",
+    "away_prob": 0.56,
+    "home_prob": 0.44,
+    "home": "CLE"
+  },
+  {
+    "week": 12,
+    "away": "GB",
+    "away_prob": 0.75,
+    "home_prob": 0.25,
+    "home": "DET"
+  },
+  {
+    "week": 12,
+    "away": "ARI",
+    "away_prob": 0.59,
+    "home_prob": 0.41,
+    "home": "STL"
+  },
+  {
+    "week": 12,
+    "away": "ATL",
+    "away_prob": 0.67,
+    "home_prob": 0.33,
+    "home": "TB"
+  },
+  {
+    "week": 12,
+    "away": "BAL",
+    "away_prob": 0.42,
+    "home_prob": 0.58,
+    "home": "MIA"
+  },
+  {
+    "week": 12,
+    "away": "CAR",
+    "away_prob": 0.6,
+    "home_prob": 0.4,
+    "home": "NO"
+  },
+  {
+    "week": 12,
+    "away": "CIN",
+    "away_prob": 0.76,
+    "home_prob": 0.24,
+    "home": "CLE"
+  },
+  {
+    "week": 12,
+    "away": "HOU",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "BUF"
+  },
+  {
+    "week": 12,
+    "away": "JAX",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "TEN"
+  },
+  {
+    "week": 12,
+    "away": "NYJ",
+    "away_prob": 0.39,
+    "home_prob": 0.6,
+    "home": "NYG"
+  },
+  {
+    "week": 12,
+    "away": "SEA",
+    "away_prob": 0.54,
+    "home_prob": 0.46,
+    "home": "MIN"
+  },
+  {
+    "week": 12,
+    "away": "SF",
+    "away_prob": 0.52,
+    "home_prob": 0.48,
+    "home": "CHI"
+  },
+  {
+    "week": 12,
+    "away": "DEN",
+    "away_prob": 0.71,
+    "home_prob": 0.28,
+    "home": "SD"
+  },
+  {
+    "week": 12,
+    "away": "KC",
+    "away_prob": 0.52,
+    "home_prob": 0.47,
+    "home": "OAK"
+  },
+  {
+    "week": 12,
+    "away": "PHI",
+    "away_prob": 0.18,
+    "home_prob": 0.82,
+    "home": "NE"
+  },
+  {
+    "week": 12,
+    "away": "IND",
+    "away_prob": 0.31,
+    "home_prob": 0.69,
+    "home": "PIT"
+  },
+  {
+    "week": 12,
+    "away": "DAL",
+    "away_prob": 0.6,
+    "home_prob": 0.4,
+    "home": "WSH"
+  },
+  {
+    "week": 13,
+    "away": "MIN",
+    "away_prob": 0.33,
+    "home_prob": 0.67,
+    "home": "ARI"
+  },
+  {
+    "week": 13,
+    "away": "ATL",
+    "away_prob": 0.3,
+    "home_prob": 0.7,
+    "home": "CAR"
+  },
+  {
+    "week": 13,
+    "away": "BUF",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "PHI"
+  },
+  {
+    "week": 13,
+    "away": "DET",
+    "away_prob": 0.35,
+    "home_prob": 0.65,
+    "home": "STL"
+  },
+  {
+    "week": 13,
+    "away": "IND",
+    "away_prob": 0.65,
+    "home_prob": 0.35,
+    "home": "JAX"
+  },
+  {
+    "week": 13,
+    "away": "NE",
+    "away_prob": 0.8,
+    "home_prob": 0.2,
+    "home": "HOU"
+  },
+  {
+    "week": 13,
+    "away": "NO",
+    "away_prob": 0.61,
+    "home_prob": 0.39,
+    "home": "TB"
+  },
+  {
+    "week": 13,
+    "away": "PIT",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "CIN"
+  },
+  {
+    "week": 13,
+    "away": "SD",
+    "away_prob": 0.32,
+    "home_prob": 0.68,
+    "home": "KC"
+  },
+  {
+    "week": 13,
+    "away": "SF",
+    "away_prob": 0.52,
+    "home_prob": 0.48,
+    "home": "CLE"
+  },
+  {
+    "week": 13,
+    "away": "TEN",
+    "away_prob": 0.18,
+    "home_prob": 0.82,
+    "home": "NYJ"
+  },
+  {
+    "week": 13,
+    "away": "WSH",
+    "away_prob": 0.39,
+    "home_prob": 0.61,
+    "home": "CHI"
+  },
+  {
+    "week": 13,
+    "away": "OAK",
+    "away_prob": 0.15,
+    "home_prob": 0.85,
+    "home": "DEN"
+  },
+  {
+    "week": 13,
+    "away": "DAL",
+    "away_prob": 0.2,
+    "home_prob": 0.8,
+    "home": "GB"
+  },
+  {
+    "week": 13,
+    "away": "SEA",
+    "away_prob": 0.62,
+    "home_prob": 0.38,
+    "home": "BAL"
+  },
+  {
+    "week": 13,
+    "away": "NYG",
+    "away_prob": 0.46,
+    "home_prob": 0.54,
+    "home": "MIA"
+  },
+  {
+    "week": 14,
+    "away": "TB",
+    "away_prob": 0.25,
+    "home_prob": 0.75,
+    "home": "STL"
+  },
+  {
+    "week": 14,
+    "away": "NYJ",
+    "away_prob": 0.41,
+    "home_prob": 0.59,
+    "home": "DAL"
+  },
+  {
+    "week": 14,
+    "away": "ARI",
+    "away_prob": 0.49,
+    "home_prob": 0.51,
+    "home": "PHI"
+  },
+  {
+    "week": 14,
+    "away": "ATL",
+    "away_prob": 0.69,
+    "home_prob": 0.3,
+    "home": "JAX"
+  },
+  {
+    "week": 14,
+    "away": "BUF",
+    "away_prob": 0.57,
+    "home_prob": 0.43,
+    "home": "WSH"
+  },
+  {
+    "week": 14,
+    "away": "CAR",
+    "away_prob": 0.56,
+    "home_prob": 0.44,
+    "home": "NYG"
+  },
+  {
+    "week": 14,
+    "away": "CHI",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "MIN"
+  },
+  {
+    "week": 14,
+    "away": "HOU",
+    "away_prob": 0.31,
+    "home_prob": 0.68,
+    "home": "IND"
+  },
+  {
+    "week": 14,
+    "away": "KC",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "BAL"
+  },
+  {
+    "week": 14,
+    "away": "TEN",
+    "away_prob": 0.05,
+    "home_prob": 0.95,
+    "home": "NE"
+  },
+  {
+    "week": 14,
+    "away": "CLE",
+    "away_prob": 0.14,
+    "home_prob": 0.86,
+    "home": "SEA"
+  },
+  {
+    "week": 14,
+    "away": "GB",
+    "away_prob": 0.75,
+    "home_prob": 0.25,
+    "home": "OAK"
+  },
+  {
+    "week": 14,
+    "away": "DEN",
+    "away_prob": 0.54,
+    "home_prob": 0.46,
+    "home": "PIT"
+  },
+  {
+    "week": 14,
+    "away": "MIA",
+    "away_prob": 0.45,
+    "home_prob": 0.55,
+    "home": "SD"
+  },
+  {
+    "week": 14,
+    "away": "CIN",
+    "away_prob": 0.66,
+    "home_prob": 0.34,
+    "home": "SF"
+  },
+  {
+    "week": 14,
+    "away": "DET",
+    "away_prob": 0.33,
+    "home_prob": 0.67,
+    "home": "NO"
+  },
+  {
+    "week": 15,
+    "away": "SD",
+    "away_prob": 0.43,
+    "home_prob": 0.57,
+    "home": "OAK"
+  },
+  {
+    "week": 15,
+    "away": "WSH",
+    "away_prob": 0.21,
+    "home_prob": 0.79,
+    "home": "PHI"
+  },
+  {
+    "week": 15,
+    "away": "CAR",
+    "away_prob": 0.53,
+    "home_prob": 0.47,
+    "home": "ATL"
+  },
+  {
+    "week": 15,
+    "away": "CHI",
+    "away_prob": 0.46,
+    "home_prob": 0.54,
+    "home": "TB"
+  },
+  {
+    "week": 15,
+    "away": "CLE",
+    "away_prob": 0.25,
+    "home_prob": 0.75,
+    "home": "KC"
+  },
+  {
+    "week": 15,
+    "away": "DAL",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "BUF"
+  },
+  {
+    "week": 15,
+    "away": "HOU",
+    "away_prob": 0.59,
+    "home_prob": 0.41,
+    "home": "TEN"
+  },
+  {
+    "week": 15,
+    "away": "IND",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "MIA"
+  },
+  {
+    "week": 15,
+    "away": "JAX",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "NO"
+  },
+  {
+    "week": 15,
+    "away": "NE",
+    "away_prob": 0.72,
+    "home_prob": 0.27,
+    "home": "NYJ"
+  },
+  {
+    "week": 15,
+    "away": "NYG",
+    "away_prob": 0.37,
+    "home_prob": 0.63,
+    "home": "MIN"
+  },
+  {
+    "week": 15,
+    "away": "SF",
+    "away_prob": 0.45,
+    "home_prob": 0.55,
+    "home": "DET"
+  },
+  {
+    "week": 15,
+    "away": "GB",
+    "away_prob": 0.53,
+    "home_prob": 0.47,
+    "home": "ARI"
+  },
+  {
+    "week": 15,
+    "away": "STL",
+    "away_prob": 0.21,
+    "home_prob": 0.78,
+    "home": "SEA"
+  },
+  {
+    "week": 15,
+    "away": "PIT",
+    "away_prob": 0.54,
+    "home_prob": 0.46,
+    "home": "BAL"
+  },
+  {
+    "week": 15,
+    "away": "CIN",
+    "away_prob": 0.37,
+    "home_prob": 0.63,
+    "home": "DEN"
+  },
+  {
+    "week": 16,
+    "away": "BAL",
+    "away_prob": 0.22,
+    "home_prob": 0.78,
+    "home": "CIN"
+  },
+  {
+    "week": 16,
+    "away": "DET",
+    "away_prob": 0.47,
+    "home_prob": 0.53,
+    "home": "CHI"
+  },
+  {
+    "week": 16,
+    "away": "JAX",
+    "away_prob": 0.27,
+    "home_prob": 0.73,
+    "home": "HOU"
+  },
+  {
+    "week": 16,
+    "away": "MIN",
+    "away_prob": 0.23,
+    "home_prob": 0.77,
+    "home": "GB"
+  },
+  {
+    "week": 16,
+    "away": "NE",
+    "away_prob": 0.75,
+    "home_prob": 0.24,
+    "home": "MIA"
+  },
+  {
+    "week": 16,
+    "away": "NO",
+    "away_prob": 0.34,
+    "home_prob": 0.66,
+    "home": "ATL"
+  },
+  {
+    "week": 16,
+    "away": "NYJ",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "BUF"
+  },
+  {
+    "week": 16,
+    "away": "OAK",
+    "away_prob": 0.3,
+    "home_prob": 0.7,
+    "home": "KC"
+  },
+  {
+    "week": 16,
+    "away": "PHI",
+    "away_prob": 0.44,
+    "home_prob": 0.56,
+    "home": "NYG"
+  },
+  {
+    "week": 16,
+    "away": "PIT",
+    "away_prob": 0.68,
+    "home_prob": 0.32,
+    "home": "CLE"
+  },
+  {
+    "week": 16,
+    "away": "TB",
+    "away_prob": 0.12,
+    "home_prob": 0.88,
+    "home": "CAR"
+  },
+  {
+    "week": 16,
+    "away": "TEN",
+    "away_prob": 0.18,
+    "home_prob": 0.82,
+    "home": "IND"
+  },
+  {
+    "week": 16,
+    "away": "WSH",
+    "away_prob": 0.24,
+    "home_prob": 0.76,
+    "home": "DAL"
+  },
+  {
+    "week": 16,
+    "away": "SD",
+    "away_prob": 0.16,
+    "home_prob": 0.84,
+    "home": "DEN"
+  },
+  {
+    "week": 16,
+    "away": "SEA",
+    "away_prob": 0.46,
+    "home_prob": 0.54,
+    "home": "ARI"
+  },
+  {
+    "week": 16,
+    "away": "STL",
+    "away_prob": 0.42,
+    "home_prob": 0.57,
+    "home": "SF"
+  }
+]

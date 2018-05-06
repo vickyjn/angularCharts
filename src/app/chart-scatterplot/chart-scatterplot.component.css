@@ -1,0 +1,14 @@
+.axis path, .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+
+.dot {
+	stroke: #000;
+}
+
+.legend text, .marker text {
+	stroke: none !important;
+	fill: #000;
+}
